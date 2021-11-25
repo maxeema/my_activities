@@ -1,0 +1,5 @@
+
+enum Action {
+  addActivity,
+  modifyActivity,
+}

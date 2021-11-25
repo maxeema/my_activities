@@ -1,0 +1,21 @@
+{
+  "@@locale": "en",
+  "my_activities": "My activities",
+  "new_activity": "New activity",
+  "load_activities": "Load activities",
+  "no_activities_message": "You have no activities yet.",
+  "lets_start_with_new_one": "Let's start with a new one!",
+  "activity_information": "Activity information",
+  "activity_title": "Title",
+  "activity_time": "Time",
+  "activity_date": "Date",
+  "activity_description": "Description",
+  "optional_mark": "optional",
+  "create": "Create",
+  "created": "Created",
+  "complete": "Complete",
+  "completion_time": "Completion time",
+  "auto_completes": "Auto completes",
+  "completed": "Completed",
+  "completed_activity": "Completed activity"
+}
